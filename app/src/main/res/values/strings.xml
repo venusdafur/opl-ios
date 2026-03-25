@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Open Plural</string>
+
+    <!-- Loading -->
+    <string name="starting_app">Starting app…</string>
+    <string name="checking_login">Checking login…</string>
+    <string name="fetching_data">Fetching data…</string>
+    <string name="update_notice">Your app is out of date!</string>
+    <string name="update_versions">You have %1$s, newest is %2$s!</string>
+
+    <!-- Login -->
+    <string name="login_prompt">Please log into your account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="server_url">Server URL</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="register_instead">Register instead</string>
+
+    <!-- Pages -->
+    <string name="dashboard">Dashboard</string>
+    <string name="members">Members</string>
+    <string name="front_history">Front History</string>
+    <string name="analytics">Analytics</string>
+    <string name="chat">Chat</string>
+    <string name="polls">Polls</string>
+    <string name="friends">Friends</string>
+    <string name="useful_links">Useful Links</string>
+    <string name="app_reminders">App Reminders</string>
+    <string name="privacy_buckets">Privacy Buckets</string>
+    <string name="tokens">Tokens</string>
+    <string name="user_report">User Report</string>
+    <string name="notification_history">Notification History</string>
+    <string name="how_to">How-to\'s</string>
+    <string name="custom_fields">Custom Fields</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="options">Options</string>
+    <string name="developer">Developer</string>
+
+    <!-- Members -->
+    <string name="view_folders">View Folders</string>
+    <string name="create_member">Create Member</string>
+    <string name="create_folder">Create Folder</string>
+    <string name="fronters">Fronters</string>
+    <string name="empty_front">There is currently no member at front</string>
+    <string name="custom_front">Custom front</string>
+    <string name="custom_status">Custom status</string>
+    <string name="custom_status_prompt">Enter a custom status</string>
+    <string name="edit_custom_status">Edit custom status</string>
+    <string name="add_front">Add to front</string>
+    <string name="remove_front">Remove from front</string>
+
+    <!-- Member Edit -->
+    <string name="member_profile">Profile</string>
+    <string name="member_info">Info</string>
+    <string name="member_message_board">Message board</string>
+    <string name="member_history">History</string>
+    <string name="member_notes">Notes</string>
+    <string name="member_options">Options</string>
+    <string name="no_groups">This member is in no groups</string>
+    <string name="groups">Groups</string>
+    <string name="edit_groups">Edit groups for %1$s</string>
+
+    <!-- Folder Edit -->
+    <string name="folder_member_count_title">Member Count</string>
+    <string name="folder_member_count">%1$d Members and %2$d archived members</string>
+
+    <!-- Friends -->
+    <string name="empty_friends">No friends yet</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="friend_code">Friend Code</string>
+    <string name="friend_code_help">Your friend can find this code under their account settings</string>
+
+    <!-- Options -->
+    <string name="default_page">Default Page</string>
+    <string name="color_wheel">Color Wheel</string>
+    <string name="developer_mode">Developer Mode</string>
+
+    <!-- Generic -->
+    <string name="empty"> </string>
+    <string name="go_back">Go Back</string>
+    <string name="info">Info</string>
+    <string name="name">Name</string>
+    <string name="name_prompt">Enter a name</string>
+    <string name="pronouns">Pronouns</string>
+    <string name="description">Description</string>
+    <string name="avatar">Avatar</string>
+    <string name="avatar_url">Avatar URL</string>
+    <string name="url_prompt">Enter a URL</string>
+    <string name="emoji">Emoji</string>
+    <string name="color">Color</string>
+    <string name="color_prompt">Select a color</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="edit_date">Edit date</string>
+    <string name="edit_time">Edit time</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="dropdown">Dropdown</string>
+</resources>
